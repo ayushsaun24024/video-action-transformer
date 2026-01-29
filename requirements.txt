@@ -1,0 +1,8 @@
+torch
+torchvision
+torchaudio
+einops
+pandas
+scikit-learn
+scipy
+opencv-python-headless
